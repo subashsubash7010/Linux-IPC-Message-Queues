@@ -85,8 +85,8 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![Uploading image.png…]()
 
+<img width="788" height="455" alt="image" src="https://github.com/user-attachments/assets/501d412d-820e-40fe-9f2f-22e8874f5248" />
 
 
 # RESULT:
